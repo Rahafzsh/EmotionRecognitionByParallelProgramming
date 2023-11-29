@@ -1,2 +1,2 @@
 # EmotionRecognitionbyAWS
-Parallel code is there 
+Rahaf did this
