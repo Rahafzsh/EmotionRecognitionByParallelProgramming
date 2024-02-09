@@ -1,2 +1,1 @@
-# EmotionRecognitionbyAWS
-Parallel Course is the best
+# Facial Emotion Recognition by AWS
