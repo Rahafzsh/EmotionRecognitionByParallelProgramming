@@ -1,1 +1,1 @@
-# Facial Emotion Recognition by AWS
+# Facial Emotion Recognition
