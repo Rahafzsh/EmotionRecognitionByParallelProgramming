@@ -1,1 +1,1 @@
-# Facial Emotion Recognition
+# Emotion Recognition By Parallel Programming
